@@ -191,3 +191,4 @@ T* Singleton<T>::value_ = nullptr;
 ```
 
 ### 实现 string 类
+#include
